@@ -1,12 +1,12 @@
 <div align=center>
 <h3> API Restfull ☘ </h3>
-
+<br>
 <h3><strong> Sobre </strong></h3>
 
 <p align=justify> API Restful utilizando o framework Spring Boot da linguagem Java. Além disso, é apresentado uma simples interface web em HTML, CSS e JavaScript (também com a biblioteca Booststrap) que consume esta API.
 
 Esta é uma simples aplicação onde usuário podem se cadastrar e registrarem tarefas para sua conta. </p>
-
+<br>
 <h3><b> Projeto desenvolvido com as tecnologias:</b></h3>
 <p>
 <img src="https://img.shields.io/badge/HTML-16493f?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS-16493f?&style=for-the-badge&logo=css3&logoColor=white" alt=""> <img 
