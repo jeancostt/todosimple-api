@@ -1,11 +1,11 @@
 <div align=center>
-<h3> API Restfull ☘ </h3>
+<h3> API Restfull ☘☕ </h3>
 <br>
 <h3><strong> Sobre </strong></h3>
 
 <p> API Restful utilizando o framework Spring Boot da linguagem Java. Além disso, é apresentado uma simples interface web em HTML, CSS e JavaScript (também com a biblioteca Booststrap) que consume esta API.
 
-Esta é uma simples aplicação onde usuário podem se cadastrar e registrarem tarefas para sua conta. </p>
+Esta é uma simples aplicação onde os usuários podem se cadastrar e registrarem tarefas para sua conta. </p>
 <br>
 <h3><b> Projeto desenvolvido com as tecnologias:</b></h3>
 <p>
