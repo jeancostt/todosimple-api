@@ -2,9 +2,9 @@
 
 <h3><strong> Sobre </strong></h3>
 
-<p align=justify> API Restful utilizando o framework Spring Boot da linguagem Java. Além disso, é apresentado uma simples interface web em HTML, CSS e JavaScript (também com a biblioteca Booststrap) que consume esta API. </p>
+<p align=justify> API Restful utilizando o framework Spring Boot da linguagem Java. Além disso, é apresentado uma simples interface web em HTML, CSS e JavaScript (também com a biblioteca Booststrap) que consume esta API.
 
-Esta é uma simples aplicação onde usuário podem se cadastrar e registrarem tarefas para sua conta.
+Esta é uma simples aplicação onde usuário podem se cadastrar e registrarem tarefas para sua conta. </p>
 
 <h3><b> Projeto desenvolvido com as tecnologias:</b></h3>
 <p>
