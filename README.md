@@ -1,6 +1,6 @@
 # 🔖 API Restfull
 
-<h3><b> Sobre </b></h3>
+<h3><strong> Sobre </strong></h3>
 
 <p align=justify> API Restful utilizando o framework Spring Boot da linguagem Java. Além disso, é apresentado uma simples interface web em HTML, CSS e JavaScript (também com a biblioteca Booststrap) que consume esta API. </p>
 
